@@ -302,3 +302,6 @@ After completing this lab, a beginner should be able to explain, in their own wo
 - Why containers make deployment repeatable
 - Why source control matters when multiple people touch the same server
 - Why IAM roles are safer than hard-coded credentials
+
+![EC2 launch](IMAGES/Screenshot%20(405).png)
+![S3 bucket](IMAGES/Screenshot%20(406).png)
