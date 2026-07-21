@@ -1,0 +1,9 @@
+{
+  "name": "group9-lab-app",
+  "version": "1.0.0",
+  "description": "Group 9 AWS Cloud Lab app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
